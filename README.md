@@ -8,6 +8,8 @@ Simple express TS starter!
 $ npm install
 $ npm run dev # run development!
 ```
+## Postman Test Collection
+You can import the postman collection by download CH5_Postman_Collection file
 
 ## Scripts
 
